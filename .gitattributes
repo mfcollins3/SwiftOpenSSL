@@ -1,0 +1,4 @@
+lib/libcrypto.xcframework/ios-x86_64-maccatalyst/libcrypto.a filter=lfs diff=lfs merge=lfs -text
+lib/libcrypto.xcframework/ios-x86_64-simulator/libcrypto.a filter=lfs diff=lfs merge=lfs -text
+lib/libcrypto.xcframework/ios-arm64_armv7/libcrypto.a filter=lfs diff=lfs merge=lfs -text
+lib/libssl.xcframework/ios-arm64_armv7/libssl.a filter=lfs diff=lfs merge=lfs -text
